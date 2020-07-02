@@ -61,6 +61,6 @@ Linux Cooked interface使用编译（venetX，OpenVZ）：
     ./net_speeder venet0 "ip"
 <hr>
 一键安装
-wget -N --no-check-certificate "https://raw.githubusercontent.com/mengyalei/net-speeder/master/net_speeder.sh"
-chmod +x net_speeder.sh
+wget -N --no-check-certificate "https://raw.githubusercontent.com/mengyalei/net-speeder/master/net_speeder.sh" <br>
+chmod +x net_speeder.sh <br>
 ./net_speeder.sh
