@@ -69,7 +69,7 @@ dependent_install(){
 # 下载主程序
 program_download(){
 	rm -rf net-speeder* Net_Speeder*
-	wget -O Net_Speeder.zip --no-check-certificate https://github.com/snooda/net-speeder/archive/master.zip
+	wget -O Net_Speeder.zip --no-check-certificate https://soft.mengclaw.com/Application/Net-Speeder/net-speeder-master.zip
 }
 
 
