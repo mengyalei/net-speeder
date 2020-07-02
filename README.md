@@ -60,7 +60,7 @@ Linux Cooked interface使用编译（venetX，OpenVZ）：
     #ovz用法(加速所有ip协议数据)： 
     ./net_speeder venet0 "ip"
 <hr>
-一键安装
+一键安装<br>
 wget -N --no-check-certificate "https://raw.githubusercontent.com/mengyalei/net-speeder/master/net_speeder.sh" <br>
 chmod +x net_speeder.sh <br>
 ./net_speeder.sh
